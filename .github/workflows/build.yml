@@ -84,7 +84,7 @@ jobs:
               with:
                   tagName: 'wangzhi'
                   releaseName: 'wangzhi v__VERSION__'
-                  releaseBody: '测试'
+                  releaseBody: ''
                   releaseDraft: false
                   prerelease: false
                   publish: true
