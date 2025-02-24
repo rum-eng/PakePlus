@@ -1,7 +1,7 @@
 [package]
-name = "wangzhi"
+name = "aboutcg"
 version = "0.0.1"
-description = ""
+description = "abc网站"
 authors = ["1024xiaoshen"]
 edition = "2021"
 
