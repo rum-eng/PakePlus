@@ -1,7 +1,7 @@
 [package]
 name = "cbrain"
 version = "0.0.1"
-description = "cBrain知识管理系统-桌面端"
+description = "cBrain知识管理系统-移动端"
 authors = ["1024xiaoshen"]
 edition = "2021"
 
