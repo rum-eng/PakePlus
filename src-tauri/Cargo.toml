@@ -1,7 +1,7 @@
 [package]
-name = "aboutcg"
+name = "boardmix"
 version = "0.0.1"
-description = "abc网站"
+description = "博思白板"
 authors = ["1024xiaoshen"]
 edition = "2021"
 
